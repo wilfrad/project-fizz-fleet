@@ -1,2 +1,7 @@
+[branch "doc"]
+software/*
 *.bkp
 *.dtmp
+[branch "back-end"]
+doc/*
+software/FizzFleetShopPage/*
