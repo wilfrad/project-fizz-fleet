@@ -1,2 +1,5 @@
+[branch "doc"]
 *.bkp
 *.dtmp
+~$*
+software/*
